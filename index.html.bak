@@ -1,2 +1,77 @@
-<!DOCTYPE html><html>  <head>    <meta http-equiv="content-type" content="text/html; charset=windows-1252">    <title>simplestyle_3</title>    <meta name="description" content="website description">    <meta name="keywords" content="website keywords, website keywords">    <link rel="stylesheet" type="text/css" href="style/style.css">  </head>  <body>    <div id="main">      <div id="header">        <div id="logo">          <div id="logo_text">            <!-- class="logo_colour", allows you to change the colour of the text -->            <h1><a href="index.html">Romain CHASSAGNE <span class="logo_colour">WEBPAGE</span></a></h1>            <h2>Geophysics Monitoring &amp; Data Assimilation.</h2>          </div>        </div>        <div id="menubar">          <ul id="menu">            <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->            <li class="selected"><a href="index.html">Home</a></li>            <li><a href="file:///Users/romain/Downloads/simplestyle_3/biography.html">Biography</a></li>            <li><a href="file:///Users/romain/Downloads/simplestyle_3/research.html">Research</a></li>            <li><a href="file:///Users/romain/Downloads/simplestyle_3/activities.html">Activities</a></li>            <li><a href="file:///Users/romain/Downloads/simplestyle_3/contact.html">Contact</a></li>          </ul>        </div>      </div>      <div id="site_content">        <div id="sidebar_container">          <div class="sidebar">            <div class="sidebar_top"></div>            <div class="sidebar_item">              <!-- insert your sidebar items here -->              <h3>Recruitment</h3>              <h4>Currently NO position</h4>            </div>            <div class="sidebar_base"></div>          </div>        </div>        <div id="content" style="background-color: #eeeeee;">          <h1 style="text-align: center;"><br>          </h1>          <h1 style="text-align: center;"><br>          </h1>          <h1 style="text-align: center;">I am a researcher at the Institute of            GeoEnergy Engineering at Heriot-Watt University in Edinburgh, UK.</h1>          <h2><br>          </h2>          <h2>NEWS</h2>          <strong style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">&#8203;            [20 of January 2020]&#8203;</strong></div>        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">Our
-            paper is accepted in Computers and Geosciences: R. Chassagne, J.            Dambine, N. Obiwulu. A new geometrical approach for fast prediction            of front propagation, Computers and Geosciences, 2020, 104416, ISSN            0098-3004.</span></div>        <div style="background-color: #eeeeee;"><br>          <span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></span></div>        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>          </span></div>        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>          </span></div>        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>          </span></div>        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></span>          <span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: inline !important; float: none;"></span><strong            style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></strong></div>      </div>      <p>&nbsp;</p>    </div>  </body></html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>simplestyle_3</title>
+    <meta name="description" content="website description">
+    <meta name="keywords" content="website keywords, website keywords">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+  </head>
+  <body>
+    <div id="main">
+      <div id="header">
+        <div id="logo">
+          <div id="logo_text">
+            <!-- class="logo_colour", allows you to change the colour of the text -->
+            <h1><a href="index.html">Romain CHASSAGNE <span class="logo_colour">WEBPAGE</span></a></h1>
+            <h2>Geophysics Monitoring &amp; Data Assimilation.</h2>
+          </div>
+        </div>
+        <div id="menubar">
+          <ul id="menu">
+            <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+            <li class="selected"><a href="index.html">Home</a></li>
+            <li><a href="biography.html">Biography</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="activities.html">Activities</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="site_content">
+        <div id="sidebar_container">
+          <div class="sidebar">
+            <div class="sidebar_top"></div>
+            <div class="sidebar_item">
+              <!-- insert your sidebar items here -->
+              <h3>Recruitment</h3>
+              <h4>Currently NO position</h4>
+            </div>
+            <div class="sidebar_base"></div>
+          </div>
+        </div>
+        <div id="content" style="background-color: #eeeeee;">
+          <h1 style="text-align: center;"><br>
+          </h1>
+          <h1 style="text-align: center;"><br>
+          </h1>
+          <h1 style="text-align: center;">I am a researcher at the Institute of
+            GeoEnergy Engineering at Heriot-Watt University in Edinburgh, UK.</h1>
+          <h2><br>
+          </h2>
+          <h2>NEWS</h2>
+          <strong style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">?
+            [20 of January 2020]?</strong></div>
+        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">Our
+            paper is accepted in Computers and Geosciences: R. Chassagne, J.
+            Dambine, N. Obiwulu. A new geometrical approach for fast prediction
+            of front propagation, Computers and Geosciences, 2020, 104416, ISSN
+            0098-3004.</span></div>
+        <div style="background-color: #eeeeee;"><br>
+          <span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></span></div>
+        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>
+          </span></div>
+        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>
+          </span></div>
+        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><br>
+          </span></div>
+        <div style="background-color: #eeeeee;"><span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></span>
+          <span style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: inline !important; float: none;"></span><strong
+            style="caret-color: rgb(65, 81, 97); color: rgb(65, 81, 97); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"></strong></div>
+      </div>
+      <p>&nbsp;</p>
+    </div>
+    
+  </body>
+</html>
