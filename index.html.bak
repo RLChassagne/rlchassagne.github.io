@@ -118,11 +118,13 @@
                   <div class="d-flex flex-column flex-md-row justify-content-between mb-3">
                     <div class="flex-grow-1">
                       <ul class="fa-ul mb-0">
-                        <li> <span class="fa-li"></span> Data assimilation and
-                          uncertainty characterization</li>
-                        <li>Digital twin</li>
-                        <li> <span class="fa-li"></span> data-driven Forecast
-                          and prediction </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Quantitative and assisted Geothermal exploration </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Geothermal monitoring and forecasting </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Tailored uncertainty characterisation and propagation
+                        </li>
                         <li> <span class="fa-li"><i class="fas fa-check"></i></span>
                           Generalisation of techniques and methods for
                           georessources (exploration and exploitation)</li>
@@ -147,49 +149,43 @@
                       </ul>
                     </div>
                   </div>
-                  <div class="subheading mb-3">PhD students supervision:</div>
+                  <div class="subheading mb-3">International collaboration</div>
                   <div class="d-flex flex-column flex-md-row justify-content-between mb-3">
                     <div class="flex-grow-1">
                       <ul class="fa-ul mb-0">
-                        <li>Fabrice Sawadogo (with Bordeaux University), in
-                          progress / AI enabled for Geothermal favorability
-                          zones.</li>
-                        <li>Paul Mitchell, part-time PhD (supervised from 2020
-                          to 2022, now acting as an external supervisor, as I
-                          moved from Heriot-Watt to BRGM in 2022) / Fitness
-                          landscape analysis for data assimilation problems.</li>
-                        <li>Antony Hallam (completed in 2022) / An Assessment of
-                          the Assisted Seismic History Matching Workflow,
-                          practical innovations and solutions<br>
-                          <span class="fa-li"></span></li>
-                        <li>&nbsp;Ignacio Guridi (with Bordeaux University)
-                          (completed in 2023) / Contaminated Sites Remediation
-                          under Uncertainty : Adaptive Strategies for<br>
-                          Project Optimization.</li>
-                        <li>Rasool Amiri (supervised from 2020 to 2022 because I
-                          moved from Heriot-Watt to BRGM in 2022) / Machine
-                          learning proxy models for 4D seismic history matching.</li>
-                        <li>Samarth Bachkheti (completed in 2023) / Joint
-                          inversion of 4D AVO and time-shifts for geomechanical
-                          evaluation.</li>
-                        <li>Saeed Izadian (completed in 2022) / interpretation
-                          and value of pre-stack time-shifts in a North Sea
-                          dataset.</li>
-                        <li>Gustavo Corte (completed in 2020) /Development of
-                          techniques for quantifying pressure and saturation
-                          changes from 4D seismic data applied to a North Sea
-                          field.</li>
-                        <li>Cheng Gong (completed in 2018) / Seismic history
-                          matching using proxy models.</li>
-                        <li>Niki Obiwulu (completed in 2018) / Local
-                          waterflooding assessment using 4D seismic data and
-                          reservoir simulation.</li>
-                        <li> <span class="fa-li"></span> Zhen (David) Yin
-                          (completed in 2017) / Enhancement of dynamic reservoir
-                          interpretation using the well2seis technique.</li>
                         <li> <span class="fa-li"><i class="fas fa-check"></i></span>
-                          Dennis Obidegwu (completed in 2015) / Seismic history
-                          matching using binary images.</li>
+                          Claus Aranha (Assistant Professor,Tsukuba University,
+                          Japan) / 2014-Ongoing </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Julien Dambrine (Assistant Professor, Poitiers
+                          University, France) / 2015-Ongoing </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Olivier Atteia (Professor, Bordeaux University,
+                          France) / 2021-Ongoing </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Hernan Aguirre (Professor, Shinshu University, Japan)
+                          / 2021-2022 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Pierre Polsenaere (Research Scientist, IFREMER,
+                          France) / 2021-2022 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dominique Guérillot (Professor at Texas A&amp;M at
+                          Qatar) / 2018-2019 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Rafael Almar (Research Scientist, IRD, France) /
+                          2017-2018 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dean Oliver (Principal Researcher, CIPR, Norway) /
+                          2016-2018 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Alex Fukunaga (Assistant Professor,Tokyo University,
+                          Japan) / 2014-2015 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Magalie Clays Bruno (Assistant professor, Marseilles
+                          University, France) / 2015-2016 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Michelle Sergent (Professor, Marseilles University,
+                          France) / 2015-20168 </li>
                       </ul>
                     </div>
                   </div>
@@ -197,42 +193,59 @@
                   <div class="d-flex flex-column flex-md-row justify-content-between mb-3">
                     <div class="flex-grow-1">
                       <ul class="fa-ul mb-0">
-                        <li> <span class="fa-li"></span> Horizon EU, UNDERCOVER
-                          (2025-2028)</li>
-                        <li>French Research Council <a href="https://www.linkedin.com/groups/12732494/">(ANR)GLITER</a>,
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Romain Chassagne (PI) et al.,Agence National de la
+                          Recherche <a href="https://www.linkedin.com/groups/12732494/">(ANR)GLITER</a>,
                           Integrative multiscale investigation of heat and
                           lithium source and pathways in Deep geothermal System
                           in a rift context: Focus on the Upper Rhine Graben,
                           2022 - 2026 </li>
-                        <li>Horizon EU CO2 PilotSTRATEGY 2020 - 2026</li>
-                        <li> <span class="fa-li"></span> Industry consortium
-                          Edinburgh Time-Lapse Project (ETLP), 2021 - 2024 </li>
-                        <li> <span class="fa-li"></span> MEDIA IRM3D
-                          (subvention de recherche région Nouvelle-Aquitaine) /
-                          LRCom I3M (Siemens/CNRS/Université de Poitiers), 2021
-                          - 2023. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Professor Colin MacBeth, Dr. Romain Chassagne,
+                          Edinburgh Time-Lapse Project (ETLP) Consortium, 2021 -
+                          2024 </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Julien Dambrine, Dr. Romain Chassagne, Mathieu
+                          Naudin, MEDIA IRM3D (subvention de recherche région
+                          Nouvelle-Aquitaine) / LRCom I3M
+                          (Siemens/CNRS/Université de Poitiers), 2021 - 2023. </li>
                         <li> <span class="fa-li"><i class="fas fa-check"></i></span>
                           Japan Society for Promotion of Science (JSPS)
                           long-term Fellowship 2019. </li>
-                        <li> <span class="fa-li"></span> British council, GSIKE
-                          Joint Academic Development, 2018. </li>
-                        <li> <span class="fa-li"></span> Industry consortium
-                          Edinburgh Time-Lapse Project (ETLP), 2018 - 2021. </li>
-                        <li> <span class="fa-li"></span> LEFE INSU, 2017. </li>
-                        <li> <span class="fa-li"></span> Sasakawa Foundation
-                          Award, 2016 </li>
-                        <li> <span class="fa-li"></span> Joint Industry Project
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Romain Chassagne, Pr. Dominique Guerrilot, British
+                          council, GSIKE Joint Academic Development, 2018. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Professor Colin MacBeth, Dr. Hamed Amini, Dr. Romain
+                          Chassagne, Dr. Maria-Daphne Mangriotis, Edinburgh
+                          Time-Lapse Project (ETLP) Consortium, 2018 - 2021. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Rachid Benshila, Dr. Rafael Almar, Dr. Romain
+                          Chassagne, LEFE INSU, 2017. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Romain Chassagne, Sasakawa Foundation Award, 2016
+                        </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Professor Colin MacBeth, Dr. Romain Chassagne, JIP
                           2016 - 2017.​ </li>
-                        <li> <span class="fa-li"></span> Industry concostium
-                          Edinburgh Time-Lapse Project (ETLP), 2015 - 2018. </li>
-                        <li> <span class="fa-li"></span> Sasakawa Foundation
-                          Award, 2014 </li>
-                        <li> <span class="fa-li"></span> Industry consortium
-                          Edinburgh Time-Lapse Project (ETLP) Consortium, 2013 -
-                          2015. </li>
-                        <li> <span class="fa-li"></span> Edinburgh Society for
-                          Industrial and Applied Mathematics (SIAM) Student
-                          Chapter, 2014. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Professor Colin MacBeth, Dr. Romain Chassagne, Dr.
+                          Maria-Daphne Mangriotis, Edinburgh Time-Lapse Project
+                          (ETLP) Consortium, 2015 - 2018. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Romain Chassagne, Sasakawa Foundation Award, 2014
+                        </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Professor Colin MacBeth, Dr. Romain Chassagne, Dr.
+                          Maria-Daphne Mangriotis, Edinburgh Time-Lapse Project
+                          (ETLP) Consortium, 2013 - 2015. </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          Dr. Romain Chassagne, Edinburgh Society for Industrial
+                          and Applied Mathematics (SIAM) Student Chapter, 2014.
+                        </li>
+                        <li> <span class="fa-li"><i class="fas fa-check"></i></span>
+                          PhD studentship from ANR (agence national de la
+                          recherche) 2008-2010. </li>
                       </ul>
                     </div>
                   </div>
